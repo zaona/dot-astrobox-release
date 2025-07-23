@@ -1,0 +1,23 @@
+{
+  "item": {
+    "name": "点阵Dot",
+    "description": "小米手环10 点阵风格表盘",
+    "preview": ["preview.png"],
+    "icon": "icon.png",
+    "source_url": "https://github.com/zaona/miband-watchface-dot",
+    "author": [{
+      "name": "Zaona",
+      "author_url": "https://www.bandbbs.cn/members/157218/"
+    }]
+  },
+  "downloads": {
+    "o66": {
+      "version": "2.0.1",
+      "file_name": "dot.bin"
+    },
+    "o66nfc": {
+      "version": "2.0.1",
+      "file_name": "dot.bin"
+    }
+  }
+}
