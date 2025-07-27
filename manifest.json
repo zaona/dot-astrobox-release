@@ -2,7 +2,7 @@
   "item": {
     "name": "点阵Dot",
     "description": "小米手环10 点阵风格表盘",
-    "preview": ["preview.png"],
+    "preview": ["preview.png", "preview2.png"],
     "icon": "icon.png",
     "source_url": "https://github.com/zaona/miband-watchface-dot",
     "author": [{
