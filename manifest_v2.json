@@ -21,11 +21,11 @@
   "downloads": {
     "xmb10": {
       "version": "2.1.1",
-      "file_name": "Dot.bin"
+      "file_name": "dot.bin"
     },
     "xmb10nfc": {
       "version": "2.1.1",
-      "file_name": "Dot.bin"
+      "file_name": "dot.bin"
     }
   },
   "ext": {}
