@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "979890780101",
+    "id": "979890780202",
     "restype": "watchface",
     "name": "点阵Dot",
     "description": "小米手环10 点阵风格表盘",
@@ -20,12 +20,12 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "2.1.0",
-      "file_name": "dot.bin"
+      "version": "2.1.1",
+      "file_name": "Dot.bin"
     },
     "xmb10nfc": {
-      "version": "2.1.0",
-      "file_name": "dot.bin"
+      "version": "2.1.1",
+      "file_name": "Dot.bin"
     }
   },
   "ext": {}
